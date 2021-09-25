@@ -1,6 +1,8 @@
 # SQL_DB_VS
  API to Access SQL DB in VS C#
  
- Windows Forms Application using C# and SQL Server. Created on Visual Studio using Data Binding and Binding Navigator. Allows user to access, refresh, edit, and add new entries to a basic employee database created in Microsoft SQL Server.
+Windows Forms Application using C# and SQL Server. Created on Visual Studio using .NET Framework 4.7.2. This API uses Data Binding and Binding Navigator to handle user actions/events. 
  
- Please see the mp4 video file titled DB_VS_EX.mp4 for the API
+The API interfaces with a simple employee database I created on Microsoft SQL Server. This API provides a UI that allows user to access, refresh, edit, and add new entries. All changes are reflected in the SQL server. 
+
+All C# code is listed in this repository. Please see the mp4 video file titled DB_VS_EX.mp4 to view a breif video of the API.
